@@ -8,6 +8,7 @@ Playable Link:
 The Battle of Endor was a significant battle in the Star Wars. It was a major confrontation between the Rebel Alliance and the Galactic Empire on the forest moon of Endor.
 In this campaign, you are the commander of the Rebel Alliance army, and you will command the team to fight against the commander of the Galactic Empire!
 
+<h3>Short Story</h3>
 You: Attention, all units! This is the captain speaking. Today, we face the Battle of Endor, a crucial moment in our fight against the Galactic Empire. Our objective is clear: destroy the second Death Star and bring an end to Emperor Palpatine's reign of terror. We have a ground team led by Han Solo and Princess Leia, who will disable the shield generator. Our fleet, under the command of Admiral Ackbar, will engage the Imperial forces in space. This is our chance to strike a decisive blow against the Empire and restore freedom to the galaxy. Stay focused, stay strong, and may the Force be with us all!
 
 Rebel Pilot: Captain, we're ready for launch. Our X-wings are fueled up and standing by.
