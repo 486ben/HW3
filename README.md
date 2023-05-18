@@ -1,8 +1,9 @@
 # HW3
 
 This is the CMPM148 HW3. 
-In this assignment, Tech_Assisted Play (and Procedural Generation with Tracery). I learn how to use Tracery!
+In this assignment, Tech_Assisted Play (and Procedural Generation with Tracery). I learn how to use Tracery! There are two link, just in case it's playable!
 Playable Link: https://486ben.github.io/HW3/
+Playable Link2: https://486ben.github.io/HW3/game.html
 
 <h1>The background story</h1>
 The Battle of Endor was a significant battle in the Star Wars. It was a major confrontation between the Rebel Alliance and the Galactic Empire on the forest moon of Endor.
